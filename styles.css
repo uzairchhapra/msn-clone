@@ -12,12 +12,12 @@ body{
 }
 
 .my-button-search{
-    background-color: lightskyblue;
+    background-color: rgb(75, 168, 226);
 
 }
 
 .color{
-    background: mediumturquoise;
+    background: lightblue;
 }
 
 .no-padding{
@@ -28,4 +28,12 @@ body{
 
 .no-curve{
     border-radius: 0;
+}
+
+.logo-subtitle{
+    font-size: 10px;
+}
+
+.glyphicon-search{
+    color: white;
 }
